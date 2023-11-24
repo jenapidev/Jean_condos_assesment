@@ -23,3 +23,7 @@ Ceate a Python script that takes as an input an integer vector of length 11. Reo
 - Numbers in positions 5, 6, and 7 are divisible by the same number
 - The number in the second last place is divisible by the one in the last place 
 - The number in the last position is a prime
+
+
+### Test the code with this vector [0, 0, 2, 2, 3, 4. 4, 8, 8, 9. 9]
+the output for the previous vector is The possible combinations are: 987840
