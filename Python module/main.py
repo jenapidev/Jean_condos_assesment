@@ -125,4 +125,8 @@ def generate_phone_numbers(vector):
 
 if __name__ == "__main__":
     combinations = generate_phone_numbers([0, 0, 2, 2, 3, 4, 4, 8, 8, 9, 9])
+    for c in combinations:
+        print(c)
+        print('---------')
+
     print(f'The possible combinations are: {len(combinations)}')
